@@ -1,4 +1,5 @@
-### Hey there 👋 I'am Currently Learning the Stuff.!
+### Hey there. I am Rishabh 😄. 
+I'am Currently Learning the Stuff.!
 
 <!--
 **Rishabhagra/Rishabhagra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
